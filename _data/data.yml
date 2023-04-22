@@ -38,6 +38,15 @@ education:
         time: 2015 - 2019
         
 
+Patents:
+    title: International Patents
+    papers:
+      - title: Apparatus for detecting moment described by sentence query in video and method using the same
+        link: "#"
+        authors: Jin-Young Moon, SHIN Jung-Kyoo, Hyung-il Kim
+        conference: 2022
+    intro : Disclosed herein are an apparatus for detecting a moment described by a sentence query in a video and a method using the same. A method for detecting a moment described by a sentence query in a video includes dividing an input video into units of chunks and generating a chunk-level feature sequence based on features that are extracted in a form of vectors from respective chunks, dividing an input sentence query into units of words and generating a sentence-level feature sequence based on features that are extracted in a form of vectors from respective words, generating a chunk-sentence relation feature sequence including contextual information of the video by extracting a relation between the chunk-level feature sequence and the sentence-level feature sequence, and estimating a temporal interval corresponding to the sentence query in the video based on the chunk-sentence relation feature sequence.
+
 
 
 publications:
