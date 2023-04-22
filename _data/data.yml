@@ -42,6 +42,8 @@ education:
 
 publications:
     title: Publications    
+    intro: |    
+    papers:    
       - title: Negative Set Filtering for Contrastive Learning on Video-Text Retrieval
         link: "#"
         authors: Jungkyoo Shin, Eunwoo Kim
